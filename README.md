@@ -2,10 +2,10 @@ This is a ReactJS application created to provide the weather information related
 
 ## Requirements
 
-# To work necessary to have:
+- To work necessary to have:
 
-- Node >= 8
-- npm >= 3
+. Node >= 8
+. npm >= 3
 
 ## How do you run this web application?
 
